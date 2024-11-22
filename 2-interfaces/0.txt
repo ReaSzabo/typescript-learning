@@ -1,0 +1,17 @@
+Interface vs Class
+
+Alapvetően akkor használunk osztályt, ha
+- az osztály segítségével (constructorral) tervezünk objektumokat létrehozni
+- szeretnénk metódusokat újrahasznosítani
+
+Akkor használunk interface-t, ha
+- csak a típusok ellenőrzésére van szükség.
+
+
+Mindkettőben közös:
+- tudunk property-ket definiálni és típust adni nekik.
+
+
+Mit tud a class amit nem tud az interface:
+- metódusokat definiálni
+- kezdőértéket adni a property-knek

@@ -1,0 +1,8 @@
+Interfaces are primarily used to define the shape of an object, 
+which means they specify what properties and methods an object should have, 
+but they don’t provide any actual implementation for those properties and methods. 
+Classes, on the other hand, are used to define the behavior and properties of an object, 
+and they can include both the interface and the implementation of the object’s methods.
+
+source:
+https://medium.com/geekculture/typescript-interfaces-vs-classes-when-to-use-each-one-29955e2dfbd8
